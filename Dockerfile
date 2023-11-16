@@ -1,1 +1,1 @@
-FROM ghcr.io/mjjonone/goodplus:latest
+FROM ghcr.io/eoovve/nodejs-argo:latest
